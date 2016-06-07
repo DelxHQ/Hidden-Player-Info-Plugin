@@ -2,7 +2,8 @@
 name: HiddenInfo
 author: ArceusMatt
 descrption: Plugin that shows players hidden info.
-version: []
+version: 1.0
+api: [1.0.0]
 main: HiddenInfo/Main
 
 commands:
