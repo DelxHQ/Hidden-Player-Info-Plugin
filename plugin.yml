@@ -1,0 +1,15 @@
+---
+name: HiddenInfo
+author: ArceusMatt
+descrption: Plugin that shows players hidden info.
+version: []
+main: HiddenInfo/Main
+
+commands:
+    getinfo:
+        description: Get yours or players info
+        permission: info.command.use
+permissions:
+    info.command.use:
+        default: false
+        description: "Permission for /getinfo"
